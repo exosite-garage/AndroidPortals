@@ -8,15 +8,15 @@ To log in using the app, you need a [Portals](https://portals.exosite.com) accou
 
 ![screenshot of login](/images/screenshot-login.png)
 ![screenshot of signing in](/images/screenshot-signingin.png)
+![screenshot of device list](/images/screenshot-devicelist.png)
 
-You'll see a list of devices in your default domain, along with what portal owns them. If you have an account on multiple Portals domains and want to select a different domain, slide from left to right to open the list of your domains.Click on one to load device list for it.
+You'll see a list of devices in your default domain, along with what portal owns them. If you have an account on multiple Portals domains and want to select a different domain, slide from left to right to open the list of your domains.Click on one to load device list for it. 
 
 ![screenshot of device list](/images/screenshot-domains.png)
 
 If you click on one of the devices in the device list, you'll see a list of its dataports and datarules, and the latest value for each one.
 
-![screenshot of device list](/images/screenshot-devicelist.png)
-![screenshot of device list](/images/screenshot-devicelist.png)
+![screenshot of device list](/images/screenshot-device.png)
 
 
 ### Build 
