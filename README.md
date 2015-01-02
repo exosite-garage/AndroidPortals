@@ -21,9 +21,7 @@ If you click on one of the devices in the device list, you'll see a list of its 
 
 ### Build 
 
-This application was built using Android Studio version 1.0.2.
-
-http://developer.android.com/sdk/index.html
+This application was built using [Android Studio](http://developer.android.com/sdk/index.html) version 1.0.2. Building in Eclipse requires some manual steps.
 
 1.) Clone the source
 
