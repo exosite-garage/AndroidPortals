@@ -2,10 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/AndroidExample.iml" filepath="$PROJECT_DIR$/AndroidExample.iml" />
       <module fileurl="file://$PROJECT_DIR$/AndroidPortals.iml" filepath="$PROJECT_DIR$/AndroidPortals.iml" />
       <module fileurl="file://$PROJECT_DIR$/Demo/Demo.iml" filepath="$PROJECT_DIR$/Demo/Demo.iml" />
-      <module fileurl="file://$PROJECT_DIR$/DemoProject.iml" filepath="$PROJECT_DIR$/DemoProject.iml" />
       <module fileurl="file://$PROJECT_DIR$/OnePlatformRPC/OnePlatformRPC.iml" filepath="$PROJECT_DIR$/OnePlatformRPC/OnePlatformRPC.iml" />
       <module fileurl="file://$PROJECT_DIR$/Portals/Portals.iml" filepath="$PROJECT_DIR$/Portals/Portals.iml" />
     </modules>
